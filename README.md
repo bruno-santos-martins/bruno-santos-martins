@@ -7,8 +7,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 
 - **Linguagens:** Node.js, PHP
-- **Bancos de Dados:** MySQL, Redis
-- **Ferramentas e Plataformas:** Docker
+- **Bancos de Dados:** MySQL, Redis, MongoDB, Postgres, graphql
+- **Ferramentas e Plataformas:** Docker, Prisma, Integração PipeFy
 - **Frontend:** React, AngularJS, Bootstrap, Angular Material, CSS, HTML, Javascript
   
 
