@@ -23,7 +23,7 @@ Além de ser um entusiasta da tecnologia, sou também um aquarista apaixonado. C
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/brmartins92)
-- [Email](brmartins92@gmail.com)
+- Email brmartins92@gmail.com
 
 ## Git Antigo
 
