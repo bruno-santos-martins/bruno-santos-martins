@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Bruno
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos. Tenho uma sólida experiência em várias tecnologias, e adoro construir soluções que fazem a diferença.
 
